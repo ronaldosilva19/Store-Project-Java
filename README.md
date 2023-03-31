@@ -3,4 +3,4 @@
 
 
 --------
-&copy; DIMAp/IMD/UFRN 2021.
+&copy; ronaldo.silva.113@ufrn.edu.br 2023.

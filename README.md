@@ -3,4 +3,4 @@
 
 
 --------
-&copy; ronaldo.silva.113@ufrn.edu.br 2023.
+&copy; Ronaldo Silva, 2023.
